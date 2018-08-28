@@ -1,0 +1,50 @@
+.hero{ 
+    background-image: url("../images/background.jpg");
+    min-height: 1000px; 
+    color: #65CCB8;
+    text-align: center;
+    background-size: cover;
+}
+
+.hero img{
+    border-radius: 500px;
+    width: 150px;
+    margin: 200px auto 0;
+    border-style: ridge;
+}
+
+.topnav{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.topnav ul {
+    list-style: none;
+}
+.topnav li {
+    display: inline;
+    margin-left: 60px; 
+}
+
+.about{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.projects{
+    background-color: #65CCB8;
+    color: white;
+    text-align: center
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center
+}
+
+.bottomnav{
+    background-color: #686868;
+}
